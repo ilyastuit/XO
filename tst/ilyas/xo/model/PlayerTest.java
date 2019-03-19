@@ -1,4 +1,4 @@
-package ilyas.xo;
+package ilyas.xo.model;
 
 import org.junit.Test;
 
