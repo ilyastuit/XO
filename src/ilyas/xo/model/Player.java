@@ -1,4 +1,4 @@
-package ilyas.xo;
+package ilyas.xo.model;
 
 public class Player {
     private final String name;

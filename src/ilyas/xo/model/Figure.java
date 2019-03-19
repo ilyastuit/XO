@@ -1,4 +1,4 @@
-package ilyas.xo;
+package ilyas.xo.model;
 
 public enum Figure {
 
